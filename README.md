@@ -1,9 +1,8 @@
-[![MasterHead](https://d502jbuhuh9wk.cloudfront.net/courses/5e8c16ba0cf27666c8dbbf19/5e8c16ba0cf27666c8dbbf19_scaled_cover.jpg?v=1)]
+
 
 <h1 align="center">Hi 👋, I'm Pramod Katchalla</h1>
 <h3 align="center">AI and ML-Powered Data Scientist</h3>
 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramuuu&label=Profile%20views&color=0e75b6&style=flat" alt="pramuuu" /> </p>
